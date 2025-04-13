@@ -19,7 +19,7 @@ A simple portfolio website showcasing my interests, projects, and experience as 
 - CSS3  
 
 ## 📌 Live Demo  
-[ https://sanjeev-7714.github.io/Portfolio-Simple-Website/ ] 
+[ https://spraveen0002.github.io/Portfolio/ ] 
 
 ## 📩 Contact  
 Feel free to reach out via [ LinkedIn: www.linkedin.com/in/praveen0002 ].  
